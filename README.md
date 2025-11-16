@@ -1,5 +1,4 @@
 # social-opposite
-https://github.com/leeecool/social-opp
 import re
 import streamlit as st
 from sentence_transformers import SentenceTransformer, util
